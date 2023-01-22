@@ -1,3 +1,1 @@
-# django_test
-
-A replica of Corey Schafer's project from his Django tutorial.
+A replica of Corey Schafer's blog from his Django tutorial.
